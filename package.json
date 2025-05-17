@@ -1,0 +1,16 @@
+{
+  "name": "antlr-vuelo",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "analizador de vuelos con antlr y JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "antlr4": "^4.13.2"
+  }
+}

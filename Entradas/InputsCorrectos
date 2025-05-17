@@ -1,0 +1,9 @@
+Imput correcta Inicial
+
+AB123 JFK-LAX 24:30 23/05/20 ON_TIME A C20 L11 X
+
+Otros ejemplos de inputs correctos
+
+DC321 LEQ-RAS 12:40 10/04/06 DELAYED CC S1 M2 222
+
+QE937 PCM-AWE 19:00 02/10/21 CANCELLED K I41 X999 Z
