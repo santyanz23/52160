@@ -18,8 +18,19 @@ Para la realización del índex y CostumeVisitor utilice la ayuda del chat GPT p
 # Instrucciones para correr el proyecto #
 
 1. ## Clonar el repositorio ##
-   
-https://github.com/santyanz23/52160.git
+
+Hay varias formas para hacero. 
+* Descargar los archivos directamente desde Github
+  
+* Abrir visual studio code, y usar la opcion de clone git repository
+
+   Al usar esta opcion debemos colocar esto en la direccion que nos solicita VisualStudio https://github.com/santyanz23/52160.git
+
+* Clonar el repositorio desde Cmd, PowerShell, o terminal en Linux
+  se debe colocar: 
+    1. git clone https://github.com/santyanz23/52160.git
+    2. cd 52160
+    3. code .
 
 2. ## Escribir input ##
    
