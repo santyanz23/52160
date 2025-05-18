@@ -1,4 +1,4 @@
-# Analizador de vuelos-Legajo:52160- Yanzon Santiago #
+# Analizador de vuelos-Legajo:52160- Yanzon Santiago # 
 El proyecto parte de una gramática EBNF con la cual debíamos construir un analizador, por medio de la herramienta ANTLR, capaz de realizar un análisis léxico y sintáctico de la gramática, generar un árbol sintáctico y realizar la traducción al código fuente JavaScript
 
 Durante la conversión de la gramática me percate de que la que se me asigno tenía algunas partes, como “asiento”, a las que era imposible acceder desde la start rule; Por lo que me tome la libertad de modificar un poco esta regla para que así se pudieran alcanzar todas las reglas posibles. Otro problema que tuve durante la escritura de la gramática en ANTLR fue que no me reconocía como validos los espacios en el input, a pesar de utilizar la regla de skip automático de estos, al momento de ejecutar el proyecto me consideraba error la existencia de un espacio, pero no la de dos espacios, entonces, para que fuese más cómodo escribir el input realice los espacios de manera manual con **ESP: ' ';**
